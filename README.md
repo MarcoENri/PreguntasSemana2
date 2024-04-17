@@ -1,35 +1,31 @@
 # PreguntasSemana2
 
-¿Cuál es la mejor analogía para entender los componentes en el desarrollo de software?
+¿Cuál es una de las principales formas de comunicación entre componentes en React?
 
-A. ¿Son como piezas de LEGO que se combinan para formar un modelo completo?
+A. ¿La comunicación a través de variables globales?
 
-B. ¿Son como ingredientes en una receta que se combinan para hacer un plato delicioso?
+B. ¿La comunicación a través de props y state?
 
-C. ¿Son como piezas de rompecabezas que se unen para formar una imagen completa?
-
-ANSWER: A
-
-
-
-¿Cuál es uno de los beneficios clave de utilizar componentes en el desarrollo de software?
-
-A. ¿Aumentan la complejidad y dificultan el mantenimiento del código?
-
-B. ¿Permiten la reutilización de código, simplifican el mantenimiento y fomentan la modularidad?
-
-C. ¿Reducen la escalabilidad y la flexibilidad de la aplicación?
+C. ¿La comunicación a través de eventos del navegador?
 
 ANSWER: B
 
----
+¿Qué método del ciclo de vida de React se utiliza para realizar acciones después de que un componente ha sido montado en el DOM?
 
-¿Cuál es una de las posibles desventajas de usar componentes en exceso en una aplicación?
+A. ¿componentWillUnmount()
 
-A. ¿Aumentan la modularidad y facilitan la colaboración entre equipos?
+B. ¿componentDidMount()
 
-B. ¿Dificultan la comprensión del flujo de datos en la aplicación y pueden causar sobrecarga cognitiva?
+C. ¿componentDidUpdate()
 
-C. ¿Simplifican el mantenimiento del código y reducen la duplicación?
+ANSWER: B
+
+¿Por qué es importante limpiar recursos en el método componentWillUnmount() en React?
+
+A. ¿Para mejorar el rendimiento del componente?
+
+B. ¿Para evitar posibles pérdidas de memoria y prevenir posibles errores?
+
+C. ¿Para garantizar la reutilización de código?
 
 ANSWER: B
